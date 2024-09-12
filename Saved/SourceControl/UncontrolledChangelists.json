@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/BP_LobbyController.uasset"
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/BP_LobbyController.uasset",
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/UI_RotateArea.uasset",
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/BP_RotationViewComponent.uasset",
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/LobbyPawn.uasset",
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/BP_RotationTargetActor.uasset",
+				"D:/github/MouseRotatingCharacterInLobby/Content/Blueprints/Map_Lobby.umap"
 			]
 		}
 	]
